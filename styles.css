@@ -96,7 +96,7 @@ body {
 
 header {
  /* background-color: #595959;*/
- background-image: url(img/Fundo.png);
+ background-image: url(Fundo.png);
  height: 900px;
 /*background: linear-gradient(
     to bottom,
@@ -771,7 +771,7 @@ animation: fadeIn ease 2s;
 
 /* inicio parte depoimentos */
 .cor-depoimentos{
-  background-image: url(img/Fundo\ Pontilhado.png);
+  background-image: url(Fundo\ Pontilhado.png);
 }
 .download__container {
   display: grid;
@@ -809,10 +809,10 @@ animation: fadeIn ease 2s;
   position: relative;
 }
 .slide-1 {
-  background: url('./img/Celular\ 1.0.png');
+  background: url('Celular\ 1.0.png');
 }
 .slide-2 {
-  background: url('./img/Celular\ 2.0.png');
+  background: url('Celular\ 2.0.png');
 }
 
 
@@ -899,7 +899,7 @@ animation: fadeIn ease 2s;
 
 .formulario{
   min-height: 100vh;
-  background-image: url(img/Mundo\ Azul.png);
+  background-image: url(Mundo\ Azul.png);
   background-color:#060e16;
   background-size: cover;
   display: grid;
